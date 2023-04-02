@@ -20,6 +20,5 @@ public class Task3 {
         System.out.printf("min: %s\n", list.get(0));
         System.out.printf("max: %s\n", list.get(list.size() - 1));
         System.out.printf("mid: %s\n", list.get(list.size() / 2));
-
     }
 }
